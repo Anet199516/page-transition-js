@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":["run","console","log"],"mappings":"AAAA,IAAMA,GAAG,GAAG,SAANA,GAAM,GAAM;AACdC,EAAAA,OAAO,CAACC,GAAR,CAAY,QAAZ;AACH,CAFD","file":"main.fb6bbcaf.js","sourceRoot":"..","sourcesContent":["const run = () => {\n    console.log('Yooooo')\n}"]}

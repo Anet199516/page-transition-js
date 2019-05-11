@@ -7,11 +7,12 @@
 .nav-list {
   height: 10vh;
   display: flex;
-  width: 50%;
+  width: 100%;
   justify-content: space-around;
   align-items: center;
   margin-left: auto;
   list-style: none;
+  background-color: antiquewhite;
 }
 
 .nav-links {
